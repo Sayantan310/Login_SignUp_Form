@@ -1,6 +1,6 @@
 export const dummy_data = [{
-    email: "user1@example.com",
-    password: "password123",
+    email: "admin",
+    password: "1",
     role: "admin",
 },
 {
@@ -14,7 +14,7 @@ export const dummy_data = [{
     role: "viewer",
 },
 {
-    email: "sayantanbiswas310@gmail.com",
-    password: "1234",
+    email: "user",
+    password: "2",
     role: "user",
 },]

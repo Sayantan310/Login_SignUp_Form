@@ -12,6 +12,9 @@
   "dependencies": {
     "atom": "^1.4.2",
     "jotai": "^2.10.3",
+    "link": "^2.1.1",
+    "lucide-react": "^0.462.0",
+    "next": "^15.0.3",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
